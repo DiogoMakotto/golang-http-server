@@ -1,6 +1,6 @@
 # Golang-http-server
 
-Implantando um server HTTP server utilizando Golang language
+Implantando um server com protocolo HTTP, utilizando Golang language
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
